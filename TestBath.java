@@ -1,7 +1,7 @@
 import java.sql.*;
 public class TestBatch {
 
-
+张维行到此一游
 	public static void main(String[] args) throws Exception {
 
 		Class.forName("com.mysql.jdbc.Driver");
